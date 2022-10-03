@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "35a574fe-b904-4518-b48b-b89dddbc1814": {
+      "ProjectGuid": "35a574fe-b904-4518-b48b-b89dddbc1814",
+      "DisplayName": "Footballers",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "97441298-d78d-4e47-8bd8-597ee669e2ca": {
+      "ProjectGuid": "97441298-d78d-4e47-8bd8-597ee669e2ca",
+      "DisplayName": "MusicHub",
+      "ColorIndex": 0
+    },
+    "872e8ac0-b343-4ef6-8849-3987c07da3ee": {
+      "ProjectGuid": "872e8ac0-b343-4ef6-8849-3987c07da3ee",
+      "DisplayName": "MusicHub.Data",
+      "ColorIndex": 1
+    },
+    "81a8342c-6f4a-4756-a31a-d26a3ed2c4c1": {
+      "ProjectGuid": "81a8342c-6f4a-4756-a31a-d26a3ed2c4c1",
+      "DisplayName": "MusicHub.Data.Models",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

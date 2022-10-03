@@ -1,0 +1,13 @@
+D:\C#-Entity FrameWork\exams\BookShop\BookShop\bin\Debug\netcoreapp2.1\BookShop.deps.json
+D:\C#-Entity FrameWork\exams\BookShop\BookShop\bin\Debug\netcoreapp2.1\BookShop.runtimeconfig.json
+D:\C#-Entity FrameWork\exams\BookShop\BookShop\bin\Debug\netcoreapp2.1\BookShop.runtimeconfig.dev.json
+D:\C#-Entity FrameWork\exams\BookShop\BookShop\bin\Debug\netcoreapp2.1\BookShop.dll
+D:\C#-Entity FrameWork\exams\BookShop\BookShop\bin\Debug\netcoreapp2.1\BookShop.pdb
+D:\C#-Entity FrameWork\exams\BookShop\BookShop\obj\Debug\netcoreapp2.1\BookShop.csproj.AssemblyReference.cache
+D:\C#-Entity FrameWork\exams\BookShop\BookShop\obj\Debug\netcoreapp2.1\BookShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#-Entity FrameWork\exams\BookShop\BookShop\obj\Debug\netcoreapp2.1\BookShop.AssemblyInfoInputs.cache
+D:\C#-Entity FrameWork\exams\BookShop\BookShop\obj\Debug\netcoreapp2.1\BookShop.AssemblyInfo.cs
+D:\C#-Entity FrameWork\exams\BookShop\BookShop\obj\Debug\netcoreapp2.1\BookShop.csproj.CoreCompileInputs.cache
+D:\C#-Entity FrameWork\exams\BookShop\BookShop\obj\Debug\netcoreapp2.1\BookShop.dll
+D:\C#-Entity FrameWork\exams\BookShop\BookShop\obj\Debug\netcoreapp2.1\BookShop.pdb
+D:\C#-Entity FrameWork\exams\BookShop\BookShop\obj\Debug\netcoreapp2.1\BookShop.genruntimeconfig.cache

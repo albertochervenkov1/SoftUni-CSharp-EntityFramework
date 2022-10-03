@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f3bfe17a-15ed-4dfb-b9e0-3d0e95d19974": {
+      "ProjectGuid": "f3bfe17a-15ed-4dfb-b9e0-3d0e95d19974",
+      "DisplayName": "Artillery",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

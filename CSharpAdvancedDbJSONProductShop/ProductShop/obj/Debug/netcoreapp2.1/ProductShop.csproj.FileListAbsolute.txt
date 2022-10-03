@@ -1,0 +1,13 @@
+D:\C#-Entity FrameWork\CSharpAdvancedDbJSONProductShop\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.deps.json
+D:\C#-Entity FrameWork\CSharpAdvancedDbJSONProductShop\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.runtimeconfig.json
+D:\C#-Entity FrameWork\CSharpAdvancedDbJSONProductShop\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.runtimeconfig.dev.json
+D:\C#-Entity FrameWork\CSharpAdvancedDbJSONProductShop\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.dll
+D:\C#-Entity FrameWork\CSharpAdvancedDbJSONProductShop\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.pdb
+D:\C#-Entity FrameWork\CSharpAdvancedDbJSONProductShop\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.csproj.AssemblyReference.cache
+D:\C#-Entity FrameWork\CSharpAdvancedDbJSONProductShop\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#-Entity FrameWork\CSharpAdvancedDbJSONProductShop\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.AssemblyInfoInputs.cache
+D:\C#-Entity FrameWork\CSharpAdvancedDbJSONProductShop\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.AssemblyInfo.cs
+D:\C#-Entity FrameWork\CSharpAdvancedDbJSONProductShop\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.csproj.CoreCompileInputs.cache
+D:\C#-Entity FrameWork\CSharpAdvancedDbJSONProductShop\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.dll
+D:\C#-Entity FrameWork\CSharpAdvancedDbJSONProductShop\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.pdb
+D:\C#-Entity FrameWork\CSharpAdvancedDbJSONProductShop\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.genruntimeconfig.cache

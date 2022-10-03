@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Guns>
+  <Gun>
+    <Manufacturer>Krupp</Manufacturer>
+    <GunType>AntiAircraftGun</GunType>
+    <GunWeight>1280923</GunWeight>
+    <BarrelLength>10.89</BarrelLength>
+    <Range>16530</Range>
+    <Countries />
+  </Gun>
+  <Gun>
+    <Manufacturer>Krupp</Manufacturer>
+    <GunType>Howitzer</GunType>
+    <GunWeight>656499</GunWeight>
+    <BarrelLength>13.04</BarrelLength>
+    <Range>80235</Range>
+    <Countries />
+  </Gun>
+  <Gun>
+    <Manufacturer>Krupp</Manufacturer>
+    <GunType>FieldGun</GunType>
+    <GunWeight>431716</GunWeight>
+    <BarrelLength>15.7</BarrelLength>
+    <Range>28309</Range>
+    <Countries />
+  </Gun>
+  <Gun>
+    <Manufacturer>Krupp</Manufacturer>
+    <GunType>Mortar</GunType>
+    <GunWeight>388420</GunWeight>
+    <BarrelLength>15.87</BarrelLength>
+    <Range>6288</Range>
+    <Countries />
+  </Gun>
+  <Gun>
+    <Manufacturer>Krupp</Manufacturer>
+    <GunType>AntiTankGun</GunType>
+    <GunWeight>696072</GunWeight>
+    <BarrelLength>18.71</BarrelLength>
+    <Range>15564</Range>
+    <Countries />
+  </Gun>
+  <Gun>
+    <Manufacturer>Krupp</Manufacturer>
+    <GunType>AntiAircraftGun</GunType>
+    <GunWeight>423195</GunWeight>
+    <BarrelLength>21.59</BarrelLength>
+    <Range>84300</Range>
+    <Countries />
+  </Gun>
+  <Gun>
+    <Manufacturer>Krupp</Manufacturer>
+    <GunType>AntiTankGun</GunType>
+    <GunWeight>801684</GunWeight>
+    <BarrelLength>31.18</BarrelLength>
+    <Range>19118</Range>
+    <Countries />
+  </Gun>
+  <Gun>
+    <Manufacturer>Krupp</Manufacturer>
+    <GunType>Mortar</GunType>
+    <GunWeight>1291272</GunWeight>
+    <BarrelLength>8.31</BarrelLength>
+    <Range>14258</Range>
+    <Countries />
+  </Gun>
+</Guns>

@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2f7c676c-fce7-4473-870f-efe8be0f5da7": {
+      "ProjectGuid": "2f7c676c-fce7-4473-870f-efe8be0f5da7",
+      "DisplayName": "02. Database First",
+      "ColorIndex": 0
+    },
+    "1f9fe69f-4192-4813-84a4-f87db1d97c50": {
+      "ProjectGuid": "1f9fe69f-4192-4813-84a4-f87db1d97c50",
+      "DisplayName": "SoftUni",
+      "ColorIndex": 1
+    },
+    "7b402b10-36e0-4df3-8764-4f1b89003912": {
+      "ProjectGuid": "7b402b10-36e0-4df3-8764-4f1b89003912",
+      "DisplayName": "SoftUni",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
